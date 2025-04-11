@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pushkar and I'm a CSE student, from KMCLU</h2>
+<h2 align="left">Hi 👋! My name is Pushkar and I'm a Student, from KMC, Lucknow</h2>
 
 ###
 
@@ -56,3 +56,4 @@
 ### 🐍 Snake Contributions Animation
 
 <img src="https://raw.githubusercontent.com/your-username/your-username/output/snake.svg" alt="Snake animation" />
+
