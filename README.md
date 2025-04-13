@@ -60,7 +60,7 @@
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
     </picture>
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://instagram.com/itz_pushkar_mishra1/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
